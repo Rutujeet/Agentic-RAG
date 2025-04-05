@@ -1,4 +1,4 @@
-# Agentic RAG - Intelligent PDF Q/A System
+# Agentic RAG - PDF Q/A System
 
 Agentic RAG is a production-ready application that leverages the power of Llama Index, Ollama, and Gradio to provide an intelligent question-answering system over PDF documents. The application processes PDFs, constructs an intelligent agent that uses both summarization and vector-based Q/A pipelines, and provides a clean, interactive interface for querying document content.
 
